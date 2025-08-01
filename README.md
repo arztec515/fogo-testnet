@@ -48,7 +48,7 @@ npm install
 
 Rename file `.env.example` to `.env`in the project's root directory. This file will store your wallet's private key.
 ```
-cp. env.example .env
+cp .env.example .env
 ```
 
 After change name to .env file and add your PRIVATE_KEY.
